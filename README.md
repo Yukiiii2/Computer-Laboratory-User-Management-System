@@ -1,7 +1,8 @@
-Front-End
-
+Front-End -
 git clone https://github.com/Yukiiii2/Computer-Laboratory-User-Management-System
-
-cd
+cd 
 npm install
-npm run d ev
+npm run dev
+
+Backend -
+git clone
