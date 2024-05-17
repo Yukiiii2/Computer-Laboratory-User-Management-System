@@ -1,8 +1,22 @@
-Front-End -
-git clone https://github.com/Yukiiii2/Computer-Laboratory-User-Management-System
-cd 
-npm install
-npm run dev
+# How to Download and run
 
-Backend -
-git clone
+## Cloning
+
+```
+ -git clone https://github.com/Yukiiii2/Computer-Laboratory-User-Management-System
+```
+
+## Front End (using vscode)
+
+### Setup
+```
+  cd front-end
+  npm install primevue
+  npm install primeicons
+```
+
+### To Run
+```
+  cd frontend
+  npm run dev
+```
